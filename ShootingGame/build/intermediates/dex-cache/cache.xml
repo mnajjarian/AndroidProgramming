@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/Mehdi/.android/build-cache/b67d008f4e20d0fd4b0392b0658b95cd486155e4/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/Users/Mehdi/Downloads/ShootingGame/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_adfe09557713d7135d88cf1bfb88037a6f52231b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Mehdi/.android/build-cache/d3c4d97a496abb338a50c532230597b186e318eb/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/Users/Mehdi/Downloads/ShootingGame/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ac2fd692928e33f2e7bfa8ca35c6e96f86432057/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Mehdi/.android/build-cache/5d131c3907b89592f1b4c3dd846318b13b9e01bd/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/Mehdi/Downloads/ShootingGame/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7d9a4e7fb66229de0dbf4d05830a05d8b489ea5c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Mehdi/Downloads/ShootingGame/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="eed934975d82743e976d389f226da2eb3ac2524c">
+        <dex dex="/Users/Mehdi/Downloads/ShootingGame/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_f086c49aa65ade432020e5332a5420b3eedbbff2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Mehdi/.android/build-cache/4d5928e8edb68e5a589e3e8f2f4bd409be7453e7/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="/Users/Mehdi/Downloads/ShootingGame/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_160dc96afba50f4464ea4221f193c46f0b263c78/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Mehdi/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Users/Mehdi/Downloads/ShootingGame/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.4.0_c512f1039b19325acbd4abe1a6cb8c5e08da0036/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Mehdi/.android/build-cache/6f1873a3a42e1cbd032a21964b334cf016a4b3ab/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="/Users/Mehdi/Downloads/ShootingGame/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_11d61fe54b1be00ee0df8222c4fef8374d4ac8e3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Mehdi/.android/build-cache/5d131c3907b89592f1b4c3dd846318b13b9e01bd/output/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/Mehdi/Downloads/ShootingGame/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.4.0_8a0e740ee59d6d9133874ba1a5f61c04eb14595c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Mehdi/.android/build-cache/683fe7523a2c742011b1103f281dbba187d7e205/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/Users/Mehdi/Downloads/ShootingGame/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c110fb320c86c484c52fce63bfe1000bcf09643a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Mehdi/Downloads/ShootingGame/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="12920f9016b8b05acbc2af7cdc13cef6946fe7d3">
+        <dex dex="/Users/Mehdi/Downloads/ShootingGame/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_f0f2c31dfc1863d96e782154f379acc9e6ffdb1a/classes.dex" />
+    </item>
+
+</items>
