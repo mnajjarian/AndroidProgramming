@@ -1,2 +1,2 @@
 # AndroidProgramming
-Introduction to Mobile Application Development using Android by edX
+My Assignments for Introduction to Mobile Application Development using Android by edX
